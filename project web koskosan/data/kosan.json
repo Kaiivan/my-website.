@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "nama": "Kos Putri Harmoni",
+        "alamat": "Jakarta Selatan",
+        "harga": 1200000,
+        "gambar": "harmoni kos.jpg",
+        "deskripsi": "Kos Putri Harmoni adalah kos dengan fasilitas lengkap dan lokasi strategis di Jakarta Selatan. Dilengkapi AC, WiFi, kamar mandi dalam, dan keamanan 24 jam.",
+        "jenis": "Putri",
+        "maps": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3966.5028086452745!2d106.84646957587172!3d-6.221068360779269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f389422d1ea5%3A0x268a1fa2f22a2c44!2sHarmony%20Home%20Rest!5e0!3m2!1sid!2sid!4v1718166548000!5m2!1sid!2sid"
+    },
+    {
+        "id": "2",
+        "nama": "Kos Pria Amanah",
+        "alamat": "Bandung",
+        "harga": 950000,
+        "gambar": "pria amanah kos.jpg",
+        "deskripsi": "Kos Pria Amanah terletak di pusat kota Bandung, dekat kampus dan tempat makan. Fasilitas lengkap dan lingkungan yang kondusif.",
+        "jenis": "Putra",
+        "maps": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d4048098.4955938295!2d105.54464691250001!3d-7.766353100000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e7ffe990f7e5%3A0x1b2a7a54ae7471d1!2sKost%20Pondok%20amanah!5e0!3m2!1sid!2sid!4v1751913784519!5m2!1sid!2sid"
+    },
+    {
+        "id": "3",
+        "nama": "Kos Campur Elite",
+        "alamat": "Yogyakarta",
+        "harga": 1500000,
+        "gambar": "elite kos.jpg",
+        "deskripsi": "Kos Campur Elite di Yogyakarta cocok untuk mahasiswa dan pekerja. Lokasi strategis, akses mudah, dan fasilitas lengkap.",
+        "jenis": "Campur",
+        "maps": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d63251.70525207065!2d110.33772919385166!3d-7.7652487669144685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59ba98564b47%3A0x48efd239711f7eb3!2sEta%20House%20Kost%20Eksklusif!5e0!3m2!1sid!2sid!4v1751913963305!5m2!1sid!2sid"
+    },
+    {
+        "id": 4,
+        "nama": "s",
+        "alamat": "adsdsad",
+        "harga": 23,
+        "gambar": "https:\/\/images.app.goo.gl\/jPboEh5sZoxd3iNb6",
+        "deskripsi": "sfsffsfsef",
+        "jenis": "",
+        "maps": ""
+    }
+]
